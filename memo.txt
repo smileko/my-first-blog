@@ -1,0 +1,26 @@
+1. django local
+
+   http://127.0.0.1:8000
+
+  ID : admin
+  PW : kjs2707!
+
+  ID : tommy
+  PW : a12345678
+
+  ID : louis
+  PW : a12345678
+
+
+2. pythonanywhere web
+
+   smileko.pythonanywhere.com
+
+  ID : smileko
+  PW : kjs2707!
+
+  ID : tommy1
+  PW : ab12345678
+
+  ID : louis1
+  PW : ab12345678
